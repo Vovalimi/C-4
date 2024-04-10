@@ -1,0 +1,12 @@
+D:\C#.Net Krok\Task4\bin\Debug\Task4.exe.config
+D:\C#.Net Krok\Task4\bin\Debug\Task4.exe
+D:\C#.Net Krok\Task4\bin\Debug\Task4.pdb
+D:\C#.Net Krok\Task4\obj\Debug\Task4.csproj.AssemblyReference.cache
+D:\C#.Net Krok\Task4\obj\Debug\Task4.csproj.SuggestedBindingRedirects.cache
+D:\C#.Net Krok\Task4\obj\Debug\Task4.Form1.resources
+D:\C#.Net Krok\Task4\obj\Debug\Task4.Properties.Resources.resources
+D:\C#.Net Krok\Task4\obj\Debug\Task4.csproj.GenerateResource.cache
+D:\C#.Net Krok\Task4\obj\Debug\Task4.csproj.CoreCompileInputs.cache
+D:\C#.Net Krok\Task4\obj\Debug\Task4.exe
+D:\C#.Net Krok\Task4\obj\Debug\Task4.pdb
+D:\C#.Net Krok\Task4\obj\Debug\Task4.Form2.resources
